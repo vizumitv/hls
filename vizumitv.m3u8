@@ -3,11 +3,11 @@
 #EXT-X-TARGETDURATION:12
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:11.800000,
-vizumitv0.ts
+https://github.com/vizumitv/hls/raw/refs/heads/main/vizumitv0.ts
 #EXTINF:11.800000,
-vizumitv1.ts
+https://github.com/vizumitv/hls/raw/refs/heads/main/vizumitv1.ts
 #EXTINF:7.866667,
-vizumitv2.ts
+https://github.com/vizumitv/hls/raw/refs/heads/main/vizumitv2.ts
 #EXTINF:4.533333,
-vizumitv3.ts
+https://github.com/vizumitv/hls/raw/refs/heads/main/vizumitv3.ts
 #EXT-X-ENDLIST
